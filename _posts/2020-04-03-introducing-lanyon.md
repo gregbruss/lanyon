@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: First Blog Post
 ---
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Built on Poole
+### Some text
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
@@ -16,7 +16,7 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-### Lanyon features
+### Some more text
 
 In addition to the features of Poole, Lanyon adds the following:
 
@@ -27,7 +27,7 @@ In addition to the features of Poole, Lanyon adds the following:
 
 [Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
 
-### Browser support
+### You guessed it -- even more text
 
 Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
