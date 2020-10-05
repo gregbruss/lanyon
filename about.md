@@ -4,26 +4,27 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Information about me
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a D.Sci and AI working in Amsterdam. Description Description Description.
+You can find more information about me here:
 
-There are currently two themes built on Poole:
+* [CV](http://hyde.getpoole.com)
+* [GitHub](http://lanyon.getpoole.com)
+* [LinkedIn](http://hyde.getpoole.com)
+* [Twitter] (http://hyde.getpoole.com)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Writing
 
-## Setup
+I use this blog mostly to host my writing. I'm primarily interested in machine learning, distributed computing, and subject subject subject.
+As a 
 
-Some fun facts about the setup of this project include:
+* Software: [Essay 1](http://hyde.getpoole.com), [Essay 2](http://hyde.getpoole.com), [Essay 3](http://hyde.getpoole.com)
+* Attention: [Essay 1](http://hyde.getpoole.com), [Essay 2](http://hyde.getpoole.com)
+* Third Topic: [Essay 1](http://hyde.getpoole.com), [Essay 1](http://hyde.getpoole.com), [Essay 1](http://hyde.getpoole.com)
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to reach out via [email](http://hyde.getpoole.com).
 
 Thanks for reading!
